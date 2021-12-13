@@ -1,10 +1,5 @@
 # Getting Started with Create React App
 
-Contacts
-
-![Screen Shot 2021-12-13 at 2 43 05 PM](https://user-images.githubusercontent.com/95377031/145901017-d155c708-bf73-4077-a057-f5ca7c4a26ff.png)
-
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
