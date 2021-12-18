@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Contacts, hover, props, map, array, sidebar
+Contacts, hover, props, map, array of objects (local datasource), sidebar
 
 ![Screen Shot 2021-12-16 at 9 10 14 AM](https://user-images.githubusercontent.com/95377031/146417454-d0d3b2a4-c13c-450c-9ae4-b367886518da.png)
 
